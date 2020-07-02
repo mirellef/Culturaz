@@ -8,8 +8,6 @@
 
 [**http://culturaz.santoandre.sp.gov.br/**](http://culturaz.santoandre.sp.gov.br/)
 
-**ASSISTA AO TUTORIAL NO YOUTUBE:** [**https://www.youtube.com/watch?v=zL2191\_X8AA**](https://www.youtube.com/watch?v=zL2191_X8AA)
-
 **1-**      **Crie o seu agente individual Pessoa Física - ID da Cultura**
 
 **2-**      **Preencha o formulário com todos os seus dados. Preste ATENÇÃO na hora de colocar e-mail e senha. ANOTE SEU E-MAIL E SENHA. A Secretaria de Cultura não consegue recuperar essas informações, somente VOCÊ, através da redefinição da senha.**
