@@ -34,5 +34,5 @@
 
 **7-**      **Clicar em SALVAR, depois SAIR MODO DE EDIÇÃO. Pronto, está cadastrado seu agente coletivo/jurídico/com CNPJ.**
 
-**8-**      **Incremente o seu agente coletivo com histórico da empresa, objeto do contrato social/estatuto/inscrição de MEI., fotos e documentos da empresa.**
+**8-**      **Incremente o seu agente coletivo com histórico da empresa, objeto do contrato social/estatuto/inscrição de MEI.**
 
